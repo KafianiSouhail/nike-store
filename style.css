@@ -42,6 +42,7 @@ nav .nav-top .nav-item.search-box{
     border-radius: 10px;
 }
 
+
 nav .nav-top .nav-item .search-icon{
     width: 1rem;
     object-fit: contain;
@@ -535,6 +536,15 @@ footer .social-media-icons i{
     font-size: 1.7rem;
     padding: 0 1.2rem;
     color: green;
+}
+
+footer .developer{
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+
+footer .developer i{
+    color: #369e62;
 }
 
 @media screen  and (max-width:900px) {
