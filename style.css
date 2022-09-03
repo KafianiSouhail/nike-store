@@ -18,6 +18,16 @@ body{
     html,body{
         font-size: 14px;
     }
+
+    *{
+        
+    }
+}
+
+@media screen and (max-width:728px) {
+    *{
+        cursor: unset;
+    }
 }
 
 /* START NAV */
